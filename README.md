@@ -9,8 +9,8 @@ Also Tinygps++ Library written by Mikal Hart (sundial.com)
 
 Also PCD8544 Library written by Carlos Rodrigues.
 
-I also thank the work of Thomas LA3PNA, Mark K6HX, KD1JV found through
-research through Google. 
+I also thank the work OF Thomas LA3PNA, Mark K6HX, and KD1JV with the sharing of their work
+made available through Google and Github.
 
 Visit VK3EDW.COM to get more info regarding this project.
 
