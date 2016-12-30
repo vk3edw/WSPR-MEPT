@@ -21,6 +21,8 @@ times are programmed within the code. You can modify transmission frequency
 in the code, the calibration factor for your si5351, your Callsign,
 TX output power and transmission times.
 
+I am not a 'seasoned' programmer and would welcome any suggestions/changes.
+
  Permission is hereby granted, free of charge, to any person obtaining
  a copy of this software and associated documentation files (the
  "Software"), to deal in the Software without restriction, including
