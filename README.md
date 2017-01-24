@@ -12,6 +12,6 @@ Also PCD8544 Library written by Carlos Rodrigues.
 I also thank the work OF Thomas LA3PNA, Mark K6HX, and KD1JV with the sharing of their work
 made available through Google and Github.
 
-Visit VK3EDW.COM to get more info regarding this project.
+Visit http://www.qsl.net/vk3edw to get more info regarding this project.
 
 VK3EDW December 2016
